@@ -1,0 +1,10 @@
+# For Firefox to work in wayland
+export MOZ_ENABLE_WAYLAND=1
+
+# Config directory
+export XDG_CONFIG_HOME=$HOME/.config
+
+# For Adruino and Java based GUIs to scale and resize properly
+export _JAVA_AWT_WM_NONREPARENTING=1
+
+export XDG_CURRENT_DESKTOP=Unity

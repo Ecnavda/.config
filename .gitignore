@@ -1,0 +1,8 @@
+# Ignoring everything
+*
+
+# Except the following...
+!.gitignore
+!.bash_personal
+!sway/
+!sway/personal.conf
