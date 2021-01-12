@@ -8,6 +8,3 @@ export XDG_CONFIG_HOME=$HOME/.config
 export _JAVA_AWT_WM_NONREPARENTING=1
 
 export XDG_CURRENT_DESKTOP=Unity
-
-# Start pulseaudio server
-pulseaudio --start
